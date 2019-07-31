@@ -41,5 +41,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Zahteva se lokacija kako bi se prikazali Pokemoni koji su u blizini.</string>
 </dict>
 </plist>

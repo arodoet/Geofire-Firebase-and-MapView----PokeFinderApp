@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>767233267639-r4jser9eifopfbabtrl4hrqh0gnvodo4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.767233267639-r4jser9eifopfbabtrl4hrqh0gnvodo4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCHnWkRunkbsU-aAYWviwM4tP-hPGymMQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>767233267639</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.teodora.PokeFinder</string>
+	<key>PROJECT_ID</key>
+	<string>pokesearch-a15fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokesearch-a15fd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:767233267639:ios:642d4446b4625e62</string>
+	<key>DATABASE_URL</key>
+	<string>https://pokesearch-a15fd.firebaseio.com</string>
+</dict>
+</plist>
